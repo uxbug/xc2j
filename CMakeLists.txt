@@ -3,4 +3,4 @@ project(xc2j C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(xc2j main.c)
+add_executable(xc2j xc2j.c)
